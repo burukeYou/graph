@@ -13,7 +13,7 @@ java对图数据结构的实现 (仅供学习参考)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1d73847a4c6d4270a2d2c4603cd2bc05.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA56yo54yq5aSn6Zq-5Li05aS0,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 
-# 3、Function
+# 3、Features
 并且在这四种数据结构之上实现了以下基础图论算法:
 - 图的深度优先遍历
 - 图的广度优先遍历
